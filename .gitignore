@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Model files
+models/*.pkl
+
+# Dataset and archives
+Data/raw/*
+archive.zip
+.DS_Store

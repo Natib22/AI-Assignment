@@ -1,0 +1,12 @@
+DATA_PATH = "data/raw/IMDB Dataset.csv"
+MODEL_PATH = "models/gbdt_model.pkl"
+
+TEST_SIZE = 0.2
+RANDOM_STATE = 42
+
+MAX_FEATURES = 5000
+N_ESTIMATORS = 100
+LEARNING_RATE = 0.1
+MAX_DEPTH = 2
+
+MAX_ROWS = 50000 
