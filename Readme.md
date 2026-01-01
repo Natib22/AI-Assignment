@@ -1,3 +1,10 @@
+
+Group Members
+1. Nathan Fisseha- UGR/7612/15
+2. Meheret Alemu- UGR/4457/15
+3. Mesay Lemma- UGR/1875/15
+4. Natnael Biruk- UGR/6588/15
+
  # AI Assignment: Sentiment Analysis with Gradient Boosting
 
 This project demonstrates sentiment analysis using **gradient tree boosting (XGBoost)** on the IMDB movie review dataset. The model predicts whether a movie review is **positive** or **negative** based on the text content.
